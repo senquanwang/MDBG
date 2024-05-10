@@ -1,5 +1,5 @@
 # An Improved Strategy for Blood Glucose Control Using Multi-Step Deep Reinforcement Learning
-Senquan Wang, Weiwei Gu
+Senquan Wang and Weiwei Gu
 
 Arxiv: https://arxiv.org/abs/2403.07566
 
