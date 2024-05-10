@@ -13,3 +13,16 @@ To train an agent for the glucose control task, run
 ```
 python .\main.py --Agent Multistep --PER --ns 16
 ```
+
+## Citation
+Welcome to cite our paper and use it in your research:
+```
+@misc{gu2024improved,
+      title={An Improved Strategy for Blood Glucose Control Using Multi-Step Deep Reinforcement Learning}, 
+      author={Weiwei Gu and Senquan Wang},
+      year={2024},
+      eprint={2403.07566},
+      archivePrefix={arXiv},
+      primaryClass={cs.AI}
+}
+```
