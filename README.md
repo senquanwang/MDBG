@@ -11,5 +11,5 @@ Our work is based on Basu et al. thus the configuration of the environment can b
 To train an agent for the glucose control task, run
 
 ```
-python .\code\main.py --Agent Multistep --PER --ns 16
+python .\main.py --Agent Multistep --PER --ns 16
 ```
